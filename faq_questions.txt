@@ -1,0 +1,62 @@
+[
+  {
+    "intent": "biaya_kuliah",
+    "entity": "jurusan",
+    "count": 24
+  },
+  {
+    "intent": "jadwal_ujian",
+    "entity": "-",
+    "count": 10
+  },
+  {
+    "intent": "jadwal_ujian",
+    "entity": "jalur",
+    "count": 9
+  },
+  {
+    "intent": "unknown",
+    "entity": "-",
+    "count": 24
+  },
+  {
+    "intent": "Kontak",
+    "entity": "kontak",
+    "count": 17
+  },
+  {
+    "intent": "akreditasi_prodi",
+    "entity": "jurusan",
+    "count": 43
+  },
+  {
+    "intent": "alur_pendaftaran",
+    "entity": "jalur",
+    "count": 16
+  },
+  {
+    "intent": "akreditasi_prodi",
+    "entity": "-",
+    "count": 5
+  },
+  {
+    "intent": "Kontak",
+    "entity": "-",
+    "count": 2
+  },
+  {
+    "intent": "jajaran_unsrat",
+    "entity": "rektor",
+    "count": 8
+  },
+  {
+    "intent": "biaya_kuliah",
+    "entity": "-",
+    "count": 1
+  },
+  {
+    "intent": "alur_pendaftaran",
+    "entity": "-",
+    "count": 1
+  }
+]

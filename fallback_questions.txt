@@ -1,0 +1,186 @@
+[
+  {
+    "question": "ti ada?",
+    "fallback_response": "Maaf, saya kurang memahami pertanyaan Anda. Bisa dijelaskan lebih lanjut?"
+  },
+  {
+    "question": "halo, saya ingin bertanya mengenai ukt untuk teknik informatika",
+    "fallback_response": "Maaf, saya kurang memahami pertanyaan Anda. Bisa dijelaskan lebih lanjut?"
+  },
+  {
+    "question": "halo, apakah ada kontak yang bisa dihubungi?",
+    "fallback_response": "Maaf, saya kurang memahami pertanyaan Anda. Bisa dijelaskan lebih lanjut?"
+  },
+  {
+    "question": "doi ukt ekonomi brpa?",
+    "fallback_response": "Data untuk biaya_kuliah Ilmu Ekonomi (S2) belum tersedia."
+  },
+  {
+    "question": "mesin akreditas apa?",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "apa akreditas it?",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "berapa biaya kuliah kedokteran?",
+    "fallback_response": "Data untuk biaya_kuliah Pendidikan Dokter (S1) belum tersedia."
+  },
+  {
+    "question": "(0431)863886 - (0431)863786",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "berapa biaya kuliah kedokteran?",
+    "fallback_response": "Data untuk biaya_kuliah Pendidikan Dokter (S1) belum tersedia."
+  },
+  {
+    "question": "mesin akreditas apa?",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "it di unsrat akreditasnya apa?",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "apa saja jalur masuk unsrat? Dan bagaimana alur pendaftranSNBP?",
+    "fallback_response": "Data untuk alur_pendaftaran BP belum tersedia."
+  },
+  {
+    "question": "mesin akreditas apa?",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "apa akreditas mesin?",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "it di unsrat akreditasnya apa?",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "apa saja jalur masuk unsrat? Dan bagaimana alur pendaftranSNBP?",
+    "fallback_response": "Data untuk alur_pendaftaran BP belum tersedia."
+  },
+  {
+    "question": "akreditasiagribisnis?",
+    "fallback_response": "Data untuk akreditasi_prodi gribisnis belum tersedia."
+  },
+  {
+    "question": "bahasajerman akreditasi apa?",
+    "fallback_response": "Data untuk akreditasi_prodi bahasajerman belum tersedia."
+  },
+  {
+    "question": "berapa biaya kuliah kedokteran?",
+    "fallback_response": "Data untuk biaya_kuliah Pendidikan Dokter (S1) belum tersedia."
+  },
+  {
+    "question": "apa kamu bisa makan?",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "berapa biaya kuliah kedokteran?",
+    "fallback_response": "Data untuk biaya_kuliah Pendidikan Dokter (S1) belum tersedia."
+  },
+  {
+    "question": "berapa biaya kuliah kedokteran?",
+    "fallback_response": "Data untuk biaya_kuliah Pendidikan Dokter (S1) belum tersedia."
+  },
+  {
+    "question": "nga tau makang?",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "berapa biaya kuliah kedokteran?",
+    "fallback_response": "Data untuk biaya_kuliah Pendidikan Dokter (S1) belum tersedia."
+  },
+  {
+    "question": "berapa biaya kuliah kedokteran?",
+    "fallback_response": "Data untuk biaya_kuliah Pendidikan Dokter (S1) belum tersedia."
+  },
+  {
+    "question": "makang njo",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "berapa biaya kuliah kedokteran?",
+    "fallback_response": "Data untuk biaya_kuliah Pendidikan Dokter (S1) belum tersedia."
+  },
+  {
+    "question": "berapa doi ukt Teknik informatika?",
+    "fallback_response": "Data untuk biaya_kuliah Teknik Informatika belum tersedia."
+  },
+  {
+    "question": "kamu manusia?",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "manusia?",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "kamu siapa?",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "kamu bisa berhitung?",
+    "fallback_response": "Data untuk biaya_kuliah berhitung belum tersedia."
+  },
+  {
+    "question": "apa kamu manusia?",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "it di unsrat akreditasnya apa?",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "berapa biaya kuliah Bahasa jerman?",
+    "fallback_response": "Data untuk biaya_kuliah Sastra Jerman (S1) belum tersedia."
+  },
+  {
+    "question": "--------------------------------------------------------------------------------------------------",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "berapa biaya kuliah kedokteran?",
+    "fallback_response": "Data untuk biaya_kuliah Pendidikan Dokter (S1) belum tersedia."
+  },
+  {
+    "question": "berapa doi ukt Teknik informatika?",
+    "fallback_response": "Data untuk biaya_kuliah Teknik Informatika belum tersedia."
+  },
+  {
+    "question": "apa kamu manusia?",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "berapa biaya kuliah Bahasa jerman?",
+    "fallback_response": "Data untuk biaya_kuliah Sastra Jerman (S1) belum tersedia."
+  },
+  {
+    "question": "apa kang akreditasi teknik sipil?",
+    "fallback_response": "Data untuk akreditasi_prodi teknik belum tersedia."
+  },
+  {
+    "question": "uang semester akuntansi berapa?",
+    "fallback_response": "Data untuk biaya_kuliah Akuntansi belum tersedia."
+  },
+  {
+    "question": "soal unsrat cari tau dimana",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "-------------------------------------------------------------------------",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  },
+  {
+    "question": "uang semester akuntansi berapa?",
+    "fallback_response": "Data untuk biaya_kuliah Akuntansi belum tersedia."
+  },
+  {
+    "question": "apa kamu hidup?",
+    "fallback_response": "Maaf, untuk pertanyaan yang Kamu tanyakan saat ini Chatbot masih belum bisa menjawabnya. Untuk informasi lebih lanjut kamu dapat menghubungi operator kami (0431)863886 - (0431)863786"
+  }
+]
